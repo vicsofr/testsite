@@ -1,0 +1,11 @@
+body{
+    background-color: #fefefe;
+}
+
+.errorlist{
+    color: red;
+}
+
+.navbar-brand {
+    margin-left: 1rem;
+}

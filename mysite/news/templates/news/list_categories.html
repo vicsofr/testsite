@@ -1,0 +1,7 @@
+<div class="list-group">
+    {% for i in cats %}
+    <a href="{{ i.get_absolute_url }}" class="list-group-item list-group-item-action">{{ i.title }} ::
+        <font color="blue"><small><i>{{ i.cnt }}</i></small></font>
+    </a>
+    {% endfor %}
+</div>

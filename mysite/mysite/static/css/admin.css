@@ -1,0 +1,31 @@
+body {
+    background-color: #000000;
+}
+
+#header {
+    background: #4e342e;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #ffe082;
+}
+
+a.section:link, a.section:visited {
+    color: #3e2723;
+}
+
+a, a:link, a:visited {
+    color: #424242;
+}
+
+div.breadcrumbs {
+    background: #121212;
+}
+
+#nav-sidebar .current-app .section:link, #nav-sidebar .current-app .section:visited {
+    color: #3e2723;
+}
+
+#content-related .module h2 {
+    background: #ffe082;
+}
